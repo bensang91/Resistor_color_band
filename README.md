@@ -1,1 +1,0 @@
-# Resistor_color_band
